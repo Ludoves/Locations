@@ -1,0 +1,54 @@
+{
+  "Nacelle articulée": [
+    "12m",
+    "16m",
+    "18m",
+    "20m",
+    "22m",
+    "26m",
+    "28m",
+    "32m",
+    "40m"
+  ],
+  "Nacelle mât vertical": [
+    "6m",
+    "8m"
+  ],
+  "Nacelle ciseau": [
+    "6m",
+    "8m",
+    "10m",
+    "12m",
+    "14m",
+    "16m",
+    "18m"
+  ],
+  "Nacelle Toucan": [
+    "6m",
+    "8m",
+    "10m",
+    "12m",
+    "15m"
+  ],
+  "MRT": [
+    "16m",
+    "21m",
+    "25m"
+  ],
+  "Chariot télescopique": [
+    "6/7m",
+    "9m",
+    "13/14m",
+    "16/17m",
+    "18m",
+    "20m"
+  ],
+  "Camion Nacelle": [
+    "16/17m",
+    "21m"
+  ],
+  
+  "Divers": [
+    "Accessoires"
+  ]
+}
