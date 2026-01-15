@@ -185,6 +185,16 @@ button {
     padding: 15px;
   }
 }
+/* Ajustement spécifique pour les champs date sur mobile */
+@media (max-width: 480px) {
+  input[type="date"] {
+    font-size: 14px;      /* texte plus petit */
+    padding: 8px 10px;    /* padding réduit à gauche/droite */
+    width: 100%;          /* s'assure qu'il ne dépasse pas */
+    box-sizing: border-box; /* inclut padding dans la largeur */
+  }
+}
+
 </style>
 
 </head>
